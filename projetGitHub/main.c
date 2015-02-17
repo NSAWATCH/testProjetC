@@ -10,5 +10,10 @@ int main()
     LIGNE LIGNE
     printf("#pasTropDIdeesLaToutDeSuite....");
     LIGNE
+    LIGNE
+    printf("TEST SAUVAGE");
+    LIGNE
+    LIGNE
+    
     return 0;
 }
