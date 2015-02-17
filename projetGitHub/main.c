@@ -10,5 +10,8 @@ int main()
     LIGNE LIGNE
     printf("#pasTropDIdeesLaToutDeSuite....");
     LIGNE
+
+//  Ceci est destiné à la branche dissidente !
+
     return 0;
 }
